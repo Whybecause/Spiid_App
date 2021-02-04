@@ -1,0 +1,187 @@
+.w-20 {
+    width: 20%;
+}
+.w-30 {
+    width: 30%;
+}
+.w-40 {
+    width: 40%;
+}
+.w-48 {
+    width: 48%;
+}
+
+.w-50 {
+    width: 50%;
+}
+.w-60 {
+    width: 60%;
+
+}
+.w-70 {
+    width: 70%;
+
+}
+.w-80 {
+    width: 80%;
+}
+.w-90 {
+    width: 90%;
+}
+.w-100 {
+    width: 100%;
+}
+
+.h-50 {
+    height: 50%;
+}
+.h-10vh {
+    height: 8vh;
+}
+
+.h-30vh {
+    height: 30vh;
+}
+.h-50vh {
+    height: 50vh;
+}
+.h-80 {
+    height: 80vh;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.padding-top-17 {
+    padding-top: 17vh;
+}
+
+.p-0 {
+    padding: 0 0 0 0;
+}
+.p-full {
+    padding: 0.5vh 0 0.5vh 0;
+}
+
+.p-bord {
+    padding-left: 2vh;
+    padding-right: 2vh;
+}
+
+.p-right {
+    padding-right: 2vw;
+}
+
+.p-left {
+    margin-left: 2vw;
+}
+
+.p-top-1 {
+    padding-top : 1vh;
+}
+.p-top-5 {
+    padding-top : 5vh;
+}
+
+.read-more {
+font-family: Rubik;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 2px;
+text-align: left;
+
+}
+
+.small-p1 {
+    font-family: Rubik;
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 9px;
+text-align: center;
+letter-spacing: 0.6px;
+color: #000000;
+}
+
+.small-p2 {
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+color: #000000;
+}
+
+.small-p3 {
+font-family: Rubik;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: left;
+padding: 3vh 1vw 2vh 1vw;
+}
+
+.small-p4 {
+font-family: Rubik;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: left;
+color: #95A1BB;
+
+}
+
+
+
+.flex-left {
+    display: flex;
+}
+.flex-right {
+    display: flex;
+    align-items: flex-end;
+    justify-content: right;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.flex-between {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.flex-row-between {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+

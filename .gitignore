@@ -1,0 +1,10 @@
+api/node_modules
+site/node_modules
+pwa/node_modules
+pwa/build
+
+/api/node_modules
+/site/node_modules
+/pwa/node_modules
+/pwa/build
+

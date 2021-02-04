@@ -1,0 +1,54 @@
+.h-10vh {
+    height: 10vh
+}
+
+.h-12vh {
+    height: 20vh;
+}
+.h-40vh {
+    height: 40vh;
+}
+.h-60vh {
+    height: 72vh;
+}
+
+.p-top-3{
+    padding-top: 3vh;
+}
+.p-top-8{
+    padding-top: 8vh;
+}
+.p-top-15{
+    padding-top: 15vh;
+}
+
+.poppins {
+font-family: Poppins;
+font-style: normal;
+color: #18172B;
+}
+
+.bg-black {
+    background: black;
+}
+
+.bg-white {
+    background: white;
+}
+
+.text-white {
+    color: white!important;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.min-h-80 {
+    max-height: 80vh;
+}
+.w-90 {
+    width: 90%;
+}

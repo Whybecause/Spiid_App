@@ -1,0 +1,115 @@
+.App {
+    text-align: center;
+  }
+  
+ 
+
+  
+  .App-link {
+    color: #61dafb;
+  }
+
+  .text-black {
+    color: black;
+  }
+
+.reseaux-login-btn {
+  background: #FFFFFF;
+  border-radius: 16px;
+  width: 40%;
+  height: 5vh;
+  border: none;
+
+}
+
+
+.text-yellow {
+  color: #FFE810!important;
+}
+
+.c-button {
+  background: #FFE810;
+  border-radius: 20px;
+  border: none;
+  margin-top: 10vh;
+  height: 7vh;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  color: #000000;
+}
+.c-button2 {
+  background: #FFE810;
+  border-radius: 20px;
+  border: none;
+  margin-top: 5vh;
+  height: 7vh;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  color: #000000;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+}
+.c-button3 {
+  border: 1px solid #FFE810;
+  box-sizing: border-box;
+  border-radius: 20px;
+  margin-top: 5vh;
+  height: 7vh;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+font-weight: 700;
+line-height: 28px;
+}
+.reseaux-btn-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 6vh 2vw 2vh 2vw;
+}
+
+.btn-text {
+  font-family: Rubik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  color: #000000;
+  }
+
+  .btn-on-map {
+    position : absolute;
+    top: 10;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
+  .text-black {
+    color: black!important;
+  }
+
+  .p-full {
+    padding: 2vh 2vw 2vh 2vw;
+  }
+
+  .font-big1 {
+    font-size: 5vw;
+  }
+
+  .font-small1 {
+    font-size: 4vw;
+  }
+  .p-full2 {
+    padding: 2vh 2vw 2vh 2vw;
+  }
+  
+  .border-bottom {
+    border-bottom: 0.1rem solid rgb(173, 173, 173);
+}
+
+.min-h-40 {
+  min-height: 40vh;
+}
