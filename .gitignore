@@ -4,9 +4,6 @@ pwa/node_modules
 pwa/build
 
 api/.env.local
+pwa/.env.local
 
-/api/node_modules
-/site/node_modules
-/pwa/node_modules
-/pwa/build
 
